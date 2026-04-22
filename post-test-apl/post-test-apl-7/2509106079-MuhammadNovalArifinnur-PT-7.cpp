@@ -173,7 +173,7 @@ void sortIdAsc(Barang *barang, int jumlah) {
     }
 }
 
-// ===== SEARCHING =====
+// SEARCHING
 
 // Linear Search (Nama)
 void cariNama(Barang *barang, int jumlah) {
